@@ -12,3 +12,15 @@ for i in range(1, 6):   # rows
             num = 1
             
     print()
+
+for i in range(5, 3, -1):
+    for j in range(i):
+        print(num, end=" ")
+        num += 1
+    print()
+
+for i in range(3, 0, -1):
+    for j in range(i):
+        print(num, end=" ")
+        num += 1
+    print()

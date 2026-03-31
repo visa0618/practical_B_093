@@ -13,3 +13,4 @@ print(even_numbers)
 print("\nMinimum Even Number:", min(even_numbers))
 print("Maximum Even Number:", max(even_numbers))
 print("Sum of Even Numbers:", sum(even_numbers))
+
