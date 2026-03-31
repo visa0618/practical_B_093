@@ -1,5 +1,5 @@
 
-First time push:-
+=> First time push:-
 
 git init
 git remote add origin https://github.com/visa0618/practical_B_093.git
@@ -10,7 +10,7 @@ git push -u origin main
 
 
 
-If Repository Already Exists (Second Time Push):-
+=> If Repository Already Exists (Second Time Push):-
 
 cd <file location>
 git add .
@@ -18,7 +18,7 @@ git commit -m "update"
 git push
 
 
-If You Are Using Someone Else's PC:-
+=> If You Are Using Someone Else's PC:-
 
 cd <file location>
 git clone https://github.com/visa0618/practical_B_093.git
@@ -26,6 +26,7 @@ git clone https://github.com/visa0618/practical_B_093.git
 # After this will create a new folder name practical_B_093
 
 cd practical_B_093
+
 #Go inside folder and copy paste the file which we are pushing to git
 #For Eg: Move stud.txt into the cloned folder
  
